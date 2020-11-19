@@ -118,23 +118,3 @@ nav{
     background-size: cover;
     background-attachment: fixed;
 }
-
-#header{
-    padding: 2rem;
-    padding-top: 6rem;
-    color: rgb(71, 69, 82);
-}
-
-.div_padding{
-    width: 80%;
-    height: 60%;
-    margin: auto;
-    text-align: justify;
-}
-
-#about{
-    padding: 2rem;
-    outline: black;
-    text-align: left;
-    text-shadow: 3px  solid goldenrod;
-}
